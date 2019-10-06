@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Main {
+public class Arrayt {
 
 	static void validate(String r, String n) {
 		if (r.length() != 9) {
